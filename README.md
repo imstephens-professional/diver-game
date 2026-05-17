@@ -7,4 +7,21 @@ Diver: Ruins Resurfaced is a game project developed in Pico-8 (lua). It was deve
 Download html file. Run it on any web browser.
 
 ## Contributors
-Kyle Brown, Kylie Hall, Isabella Stephens
+**Kyle Brown**
+* Collision
+* Movement
+* Respawn Mechanic
+* Ice Wall Mechanic
+
+**Kylie Hall**
+* Collision
+* Movement 
+* Grappling Hook Mechanic
+* Graphics
+
+**Isabella Stephens**
+* Movement
+* Item Pick-Up Mechanic
+* Graphics
+* Level Design
+* Sound Effects
