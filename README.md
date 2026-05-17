@@ -1,2 +1,11 @@
 # diver-game
-Pico-8 game project for Fall 2023.
+
+## Description
+Diver: Ruins Resurfaced is a game project developed in Pico-8 (lua). It was developed during the Fall 2023 semester of St. Mary's College of Maryland for the Game Design course.
+
+## How to Run 
+
+## Contributors
+Kyle Brown
+Kylie Hall
+Isabella Stephens
