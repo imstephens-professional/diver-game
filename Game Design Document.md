@@ -13,31 +13,44 @@ ruins? Dive right in and embark on a riveting journey!
 
 ## 2. Game Overview
 ### 2.1 Game Concept
-"Diver: Ruins Resurfaced" is a platformer that navigates two main areas: the cave 
+"Diver: Ruins Resurfaced" is a platformer that navigates two main areas: the cave and the temple. There are a variety of hazards the player must traverse through, from an enemy AI (the Wanderer) to spikes. The map is coated in darkness barring a small area around the player.
 ### 2.2 Genre
+The genre is a platformer adventure game where the players are left with minimal instructions in order to traverse the area. 
 ### 2.3 Target Audience
+The target audience includes any adventure seeking players ages 8 and up.
 ### 2.4 Game Flow Summary
+The game will move at a slow-to-medium pace. The darkness discourages the player from moving too fast. The camera will keep the player sprite as the focus. 
+### 2.5 Look & Feel
+The game will have a winter theme, with a cool color palette being the primary colors. Warm colors may denote areas/items of interest. 
 
 ## 3. Gameplay & Mechanics
 ### 3.1 Gameplay
 #### 3.1.1 Game Progression
-#### 3.1.2 Mission/Challenge Structure
-#### 3.1.3 Puzzle Structure
-#### 3.1.4 Objectives
-#### 3.1.5 Play Flow
+The game follows a linear progression, where the player will advance through the ruins until fulfilling the requirements to use the exit.
+#### 3.1.2 Objectives
+The player will need to collect items (gems) to open the exit. The player must have a health value higher than 0 in order to complete the game.
+#### 3.1.3 Play Flow
+The game is designed so that the player is focused on overcoming obstacles (damage-inducing terrain, navigating the environment, collecting items).
 ### 3.2 Mechanics
 #### 3.2.1 Physics
+There will be use of gravity physics where the player’s ability to fall and jump up and down are according to gravity physics.
 #### 3.2.2 Movement in the game
+The main movement is up (jump), down (crouch), left, right. The movements are mapped to the arrow keys: up (^), down (v), left (<), and right (>). The grappling hook mechanic (mapped onto the z key) will pull the player further up, left, or right.
 #### 3.2.3 Objects
-#### 3.2.4 Actions
-#### 3.2.5 ScreenFlow
+The player will be able to collect 2 types of items (heart gems and green gems) via collision. 
+#### 3.2.4 ScreenFlow
+The screen will center on the player's avatar. It will remain static.
 ### 3.3 Replaying & Saving
+The game will not be long (~5 minutes) and will not need a save state capability. The game will restart every time the game is exited. 
 
-## 4. Story, Setting, & Characters
+## 4. Story & Setting
 ### 4.1 Story & Narrative
+The story is that the player character fell into a deep cave and must find their way out. 
 ### 4.2 Game World
 ### 4.2.1 Setting
+The world is primarily blue, white, and gray, due to it being an underground cave. As you go deeper underground and deeper into the temple, the coloring will change to red and white.  
 ### 4.2.2 Areas
+There are two areas: the cave section and the temple section. They contain the same hazards.
 
 ## 5. Interface
 ### 5.1 Visual System
@@ -64,4 +77,3 @@ Any signal - public or private - above 2G.
 ## 8. Game Art
 No outside assets are necessary. All assets will be developed in the Pico-8 system. 
 
-## 9. Misc
