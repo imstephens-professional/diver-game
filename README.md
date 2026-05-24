@@ -7,6 +7,12 @@
 Download html file. Run it on any web browser.
 
 ## Contributors
+**Isabella Stephens**
+* Movement
+* Item Pick-Up Mechanic
+* Graphics / Audio
+* Level Design
+
 **Kyle Brown**
 * Collision
 * Movement
@@ -18,10 +24,3 @@ Download html file. Run it on any web browser.
 * Movement 
 * Grappling Hook Mechanic
 * Graphics
-
-**Isabella Stephens**
-* Movement
-* Item Pick-Up Mechanic
-* Graphics
-* Level Design
-* Sound Effects
