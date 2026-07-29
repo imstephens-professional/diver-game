@@ -7,20 +7,9 @@
 Download html file. Run it on any web browser.
 
 ## Contributors
-**Isabella Stephens**
-* Movement
-* Item Pick-Up Mechanic
-* Graphics / Audio
-* Level Design
 
-**Kyle Brown**
-* Collision
-* Movement
-* Respawn Mechanic
-* Ice Wall Mechanic
-
-**Kylie Hall**
-* Collision
-* Movement 
-* Grappling Hook Mechanic
-* Graphics
+| Name | Contributions |
+| ---- | ------------- |
+| Isabella Stephens | Movement, Item Pick-Up Mechanic, Graphics / Audio, Level Design |
+| Kyle Brown | Collision, Movement, Respawn Mechanic, Ice Wall Mechanic |
+| Kylie Hall | Collision, Movement, Grappling Hook Mechanic, Graphics |
